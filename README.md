@@ -1,8 +1,8 @@
-# Your Project's Title...
-Your project's description...
+# Helix Learning Page
+This is my Helix Learning Repo. It's where I'm testing out new things I learn with the Helix/Franklin platform.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
+- Preview: https://main--helix-learning--sh33ner.hlx.page/
 - Live: https://main--{repo}--{owner}.hlx.live/
 
 ## Installation
