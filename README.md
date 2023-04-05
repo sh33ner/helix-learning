@@ -3,7 +3,7 @@ This is my Helix Learning Repo. It's where I'm testing out new things I learn wi
 
 ## Environments
 - Preview: https://main--helix-learning--sh33ner.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Live: https://main--helix-learning--sh33ner.hlx.live/
 
 ## Installation
 
